@@ -1,0 +1,11 @@
+
+.btn{
+    padding: 5px 15px;
+   margin: 5px;
+   min-width: 100px
+}
+label{
+    padding: 15px 15px;
+   margin: 5px;
+   min-width: 100px
+}
